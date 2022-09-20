@@ -19,31 +19,36 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.8.tgz#d64575fc46bf4eb689352aa9f8a139271b6e1647"
   integrity sha512-pE5RQsOTSERCtfZdfCT25wzo7dfhOSlhAXcsZmuvRYhendOv7djcdvtINdnDp2DAjP17WXlBB4nBO6sHLczmsg==
 
-"@featherds/button@0.10.17":
-  version "0.10.17"
-  resolved "https://registry.yarnpkg.com/@featherds/button/-/button-0.10.17.tgz#2ccb72727e9a314213ec6c281fbae2c9c2610bdc"
-  integrity sha512-Lf1HvaWDE5jWzvzO24F9lGNqvHN7x7bUIDNZoT+n+xRE2qMoTX6VDZ/c1cbxW6FN3ROLQq3qBiR//T+MTmKRlg==
+"@featherds/button@0.10.7":
+  version "0.10.7"
+  resolved "https://registry.yarnpkg.com/@featherds/button/-/button-0.10.7.tgz#0b8716970914bf76a5266d6f128aeb4c0763f7c9"
+  integrity sha512-J+aDDI1Mwj19JDZakHIkJTMDjcXTAbFhzFwkG+VO+MgX9VcvPa4xpav3/HRRI411RHfWhopFONWZoYj1HYQC4A==
   dependencies:
-    "@featherds/ripple" "^0.10.17"
-    "@featherds/styles" "^0.10.17"
+    "@featherds/ripple" "^0.10.7"
+    "@featherds/styles" "^0.10.7"
     vue "^3.1.0-0"
 
-"@featherds/ripple@^0.10.17":
+"@featherds/ripple@^0.10.7":
   version "0.10.17"
   resolved "https://registry.yarnpkg.com/@featherds/ripple/-/ripple-0.10.17.tgz#369b9902264a6f160eacc5b547986d458cebf458"
   integrity sha512-SlFoOWUDiUmBSkAWOpSVQxxO7NuyorMe2DGDMQIs8YxJ4MxMK3U/XRzWnZNFdGAY3p58qbygm6kz3rdoTHZiDw==
   dependencies:
     vue "^3.1.0-0"
 
-"@featherds/styles@0.10.17", "@featherds/styles@^0.10.17":
+"@featherds/styles@0.12.2":
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/@featherds/styles/-/styles-0.12.2.tgz#2295fea0a936099f6d15d9902c6c2228009e1881"
+  integrity sha512-D029ZjzRezEr5sQtkZuI3gmmVZ7sEgtCmiRfykZxd78Zyoxx0iuzN7MeSDEyspcjz+8oWjzTwh2LhbqIIVIYsw==
+
+"@featherds/styles@^0.10.7":
   version "0.10.17"
   resolved "https://registry.yarnpkg.com/@featherds/styles/-/styles-0.10.17.tgz#603686055c45e34c6eb5a6797b870478408658b2"
   integrity sha512-kNkir7MQy1KhSstaBBpOHmBPpSmL07Mfeq1hGudtPuPt0hRejyaCmpoBUiiFUf9SI/e3h9dyTUTEymhEyyuV1w==
 
-"@featherds/utils@0.10.17":
-  version "0.10.17"
-  resolved "https://registry.yarnpkg.com/@featherds/utils/-/utils-0.10.17.tgz#8687af26c2b0821aa513989c7dde5b0e6dcae41d"
-  integrity sha512-+aWVAGTZ/m16feuuFAJX6H3ze2zpVu+RzAx4PA9Q2WsBJj/qfmp2VQFkohW3Wypg4Fj37vMiTD56iA1/jTEgXg==
+"@featherds/utils@0.12.2":
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/@featherds/utils/-/utils-0.12.2.tgz#7afafccbb7a8363e3033321076576ac03d83f9bc"
+  integrity sha512-Q5vGuNxpBi2Qz9ajfOx+n4j9CjNx+SDT3uhDnR9CNK4+PDA2He7QDmLFkPkMvn+ixA54Y7zEYgNh7dGPiJ5yjA==
 
 "@tootallnate/once@2":
   version "2.0.0"
